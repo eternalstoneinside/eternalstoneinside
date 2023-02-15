@@ -7,8 +7,8 @@ Frontend Developer
 My knowledge in Web development started with website design. Took free courses, created simple landing pages. But all these elements were static. I was wondering how I could change this. Search engines gave me three main directions for this - html, css and javascript. I found many relevant articles, books, communities, videos, courses. In my free time, I studied these materials and tried to apply my knowledge in practice. Eventually I realized that what I do is called front-end. - this is how I got acquainted with front-end development. That's how I understood what exactly I want to do in the future. As I immersed myself more and more into the interface, my curiosity grew. At the moment, I'm learning React, and I'm improving my knowledge of JavaScript. I am looking for a place where I can improve my knowledge and reach new heights...
 
 * 🌍  I'm based in Ukraine, Chekassy.
-* 🖥️  See my portfolio at [My Portfolio.](http://https://eternalstoneinside.github.io/my-portfolio-test-/)
-* ✉️  You can contact me at [dorlenko2017@gmail.com.](mailto:dorlenko2017@gmail.com.)
+* 🖥️  See my portfolio at [My Portfolio.](https://eternalstoneinside.github.io/my-portfolio-test-)
+* ✉️  You can contact me at [dorlenko2017@gmail.com.](mailto:dorlenko2017@gmail.com)
 * 🚀  I'm Actively looking for a job.
 * 🧠  I'm learning React, Node.js.
 * 🤝  I'm open to collaborating on interesting projects and long-term cooperation.
