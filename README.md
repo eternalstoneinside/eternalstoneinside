@@ -9,7 +9,7 @@ My knowledge in Web development started with website design. Took free courses, 
 * 🌍  I'm based in Ukraine, Chekassy.
 * 🖥️  See my portfolio at [My Portfolio.](http://https://eternalstoneinside.github.io/my-portfolio-test-/)
 * ✉️  You can contact me at [dorlenko2017@gmail.com.](mailto:dorlenko2017@gmail.com.)
-* 🚀  I'm currently working on [Actively looking for a job.](http://:))
+* 🚀  I'm Actively looking for a job.
 * 🧠  I'm learning React, Node.js.
 * 🤝  I'm open to collaborating on interesting projects and long-term cooperation.
 * ⚡  I'm a beginner web developer, any suggestions would be appreciated Ready to learn new technologies and develop.
